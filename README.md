@@ -10,7 +10,7 @@
 The goal of reviewlinters is to provide some linters to draw your
 attention to specific dubious patterns during your R package review.
 
-The difference with the [lintr](https://lintr.r-lib.org/) are:
+The difference with the [lintr](https://lintr.r-lib.org/) package are:
 
 - this package also provides linters that can generate many false
   positives since they will be reviewed manually. This is diametrically
