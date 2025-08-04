@@ -1,0 +1,6 @@
+linter, tags
+lengths_zero_linter, performance false_positives
+match_arg_linter, readability false_positives
+nlevels_linter, readability subjective
+rep_invalid_arg_linter, common_mistakes rare
+vectorized_function_linter, performance readability false_positives
