@@ -1,0 +1,14 @@
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>/404.html</loc></url>
+<url><loc>/authors.html</loc></url>
+<url><loc>/index.html</loc></url>
+<url><loc>/reference/index.html</loc></url>
+<url><loc>/reference/lengths_zero_linter.html</loc></url>
+<url><loc>/reference/match_arg_linter.html</loc></url>
+<url><loc>/reference/matrix_product_linter.html</loc></url>
+<url><loc>/reference/nlevels_linter.html</loc></url>
+<url><loc>/reference/nonportable_sort_linter.html</loc></url>
+<url><loc>/reference/rep_invalid_arg_linter.html</loc></url>
+<url><loc>/reference/vectorized_function_linter.html</loc></url>
+</urlset>
+
