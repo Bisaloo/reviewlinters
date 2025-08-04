@@ -2,6 +2,7 @@
 
 export(lengths_zero_linter)
 export(match_arg_linter)
+export(matrix_product_linter)
 export(nlevels_linter)
 export(rep_invalid_arg_linter)
 export(vectorized_function_linter)
