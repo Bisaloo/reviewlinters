@@ -4,5 +4,6 @@ match_arg_linter, readability false_positives
 nlevels_linter, readability subjective
 nonportable_sort_linter, portability common_mistakes false_positives
 rep_invalid_arg_linter, common_mistakes rare
+setequal_linter, false_positives duplicated_lints
 tolerance_linter, readability beta
 vectorized_function_linter, performance readability false_positives
