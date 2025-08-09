@@ -1,4 +1,5 @@
 linter, tags
+in_linter, readability false_positives beta
 lengths_zero_linter, performance false_positives
 match_arg_linter, readability false_positives
 nlevels_linter, readability subjective
